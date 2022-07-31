@@ -1,0 +1,15 @@
+Customer:
+Name
+Email
+Mobile
+Password
+Gender
+
+Products:
+product_id
+product_title
+product_company
+product_type
+product_price
+product_image
+
